@@ -42,6 +42,20 @@ var s = sum(6,7)
 
   }
 
+val arr = Array(1,2,3)
+val str = "4"
+
+val votes = Array(List(String,Int))
+val ll = List("er",2)
+val lll = List("we",1)
+val llll = votes :+ ll
+val lllll = arr(3)
+
+
+
+
+
+
 
 
 
